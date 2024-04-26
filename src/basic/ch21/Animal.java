@@ -23,7 +23,7 @@ public abstract class Animal {
 		
 		Animal animal; // 데이터 타입으로 선언 가능 
 		// 추상 클래스는 기본적으로 new 할 수 없다. 
-		animal = new Animal();   
+		//animal = new Animal();   
 		
 		
 	} // end of main 
